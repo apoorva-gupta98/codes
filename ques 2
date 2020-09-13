@@ -1,1 +1,1 @@
-find -name 'ELF.txt' -print | xargs ls -ltr
+$find -name 'ELF.txt' -print | xargs ls -ltr
